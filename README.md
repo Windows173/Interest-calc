@@ -1,0 +1,2 @@
+# Interest-calc
+Calculates interest.
